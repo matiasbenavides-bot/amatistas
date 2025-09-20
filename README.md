@@ -1,2 +1,176 @@
-# amatistas
-¿que son las amatistas?
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <title>Document</title>
+</head>
+<body style="background-color: rgb(250, 195, 204);">
+    <div style="text-align: center;"> 
+    <div style="color: blueviolet;">
+<header>
+        <h1 style="background-color: rgb(241, 129, 252);">
+            el mundo de la amatista </h1>
+            <p>hoy veremos que son las amatistas <br>
+            como se forman y su belleza</p>
+    </header>
+    <div>
+    </div>
+    <hr style="border:2px solid blueviolet;">
+    <main>
+        <h1>¿que son las amatistas?</h1>
+         <h3>
+      La amatista es una variedad de cuarzo de color violeta, 
+      muy apreciada como piedra semipreciosa. 
+      Su tonalidad puede ir desde un lila claro hasta un morado profundo. 
+      A lo largo de la historia, ha sido considerada un símbolo de paz, 
+      equilibrio y protección espiritual.
+         </h3>
+    <hr style="border:2px solid blueviolet;">
+    <h1>forma y estructura de la amatista</h1>
+    <h2  style="text-align: left;">forma</h2>
+    <h3 style="text-align: left;">
+Los cristales de amatista suelen presentarse en prismas hexagonales con terminaciones piramidales. <br>
+        Pueden ser pequeños cristales individuales o grandes geodas. La superficie es lisa y brillante en las caras cristalinas y áspera en la base donde se une a la roca.  <br>
+        A menudo se agrupan en racimos o geodas.</h3>
+    <h2 style="text-align: left;">estructura</h2>
+<h3 style="text-align: left;">
+    La amatista pertenece al sistema cristalino trigonal y es parte de la familia del cuarzo. <br>
+        Su composición química es dióxido de silicio (SiO₂) con trazas de hierro que le dan el color violeta. <br>
+        La transparencia puede variar de translúcida a casi transparente, y a veces presenta gradientes de color de violeta pálido a intenso.
+</h3>
+<img src="amatista.jpg">
+<div>
+    <hr style="border:2px solid blueviolet;">
+</div>
+<h1>formacion y origen</h1>
+<h3>
+    Las amatistas se forman dentro de geodas, que son cavidades huecas en rocas volcánicas o sedimentarias.
+Primero se forma una capa de minerales como cuarzo que recubre la cavidad
+</h3> <br>
+<img src="amatista2.jpg" style="text-align: left;">
+<h2>cristalizacion</h2>
+<h3>
+    Con el tiempo, el silicio y el oxígeno presentes en soluciones hidrotermales se combinan para formar cristales de cuarzo.
+Las trazas de hierro dentro de estos cristales, junto con la radiación natural de la roca, generan el color violeta característico.
+</h3> <br>
+<h2> crecimientos de cristales</h2>
+<h3>
+Los cristales crecen desde las paredes de la cavidad hacia el centro, formando prismas hexagonales con puntas piramidales.
+Dependiendo del tiempo y las condiciones químicas, pueden formarse cristales más grandes o pequeños, y en algunos casos aparecen gradientes de color
+</h3>
+<div>
+   <hr style="border:2px solid blueviolet;">
+</div>
+<h2>propiedades fisicas</h2>
+
+<h3>Dureza:</h3>
+<p>7 en la escala de Mohs</p>
+
+<h3>Brillo:</h3>
+<p>Vítreo</p>
+
+<h3>Color:</h3>
+<p>Violeta, desde lila claro hasta morado intenso</p>
+
+<h3>Transparencia:</h3>
+<p>Translúcida a transparente</p>
+
+<h3>Sistema cristalino:</h3>
+<p>Trigonal</p>
+
+<h3>Fractura:</h3>
+<p>Concoidea (similar al vidrio)</p>
+
+<h3>Composición química:</h3>
+<p>Dióxido de silicio (SiO₂) con trazas de hierro</p>
+<hr style="border:2px solid blueviolet;">
+<div style="text-align: left;">
+<h1 style="text-align: center;">tipos y variedades</h1>
+
+<h3>Amatista de Siberia</h3>
+<p>Se considera de las más valiosas por su color violeta profundo con destellos rojizos y azulados.</p>
+<img src="amatista siberia.jpg" alt="amatista de siberia">
+
+<h3>Amatista de Uruguay</h3>
+<p>Presenta tonos muy intensos de violeta, casi púrpura, y suele encontrarse en grandes geodas.</p>
+<img src="amatista de uruguay.jpg" alt="amatista de uruguay">
+
+<h3>Amatista de Brasil</h3>
+<p>Es una de las más comunes en el mercado, con colores que van de lila claro a violeta medio.</p>
+<img src="amatista de brasil.jpg" alt="amatista">
+
+<h3>Ametrina</h3>
+<p>Variedad que combina amatista y citrino en el mismo cristal, mostrando zonas violetas y amarillas.</p>
+<img src="ametrino.jpg" alt="ametrina">
+
+<h3>Amatista Rosa</h3>
+<p>Tonalidades suaves, cercanas al lila rosado, poco comunes y muy apreciadas en joyería.</p>
+<img src="amatista rosa.jpg" width="220">
+</div>
+<div>
+    <hr style="border:2px solid blueviolet;">
+</div>
+<h1>usos</h1>
+<h3>Joyería</h3>
+<p>La amatista se utiliza en anillos, collares, pulseras y aretes gracias a su belleza y resistencia.</p>
+
+<h3>Decoración</h3>
+<p>Se emplea en geodas, esferas y figuras talladas que adornan hogares y espacios de meditación.</p>
+
+<h3>Coleccionismo</h3>
+<p>Muy buscada por coleccionistas de minerales por su color y la variedad de formas en que aparece.</p>
+
+<h3>Usos energéticos y espirituales</h3>
+<p>En prácticas esotéricas, se considera una piedra que aporta calma, protección y equilibrio emocional.</p>
+
+<h3>Industria</h3>
+<p>Al ser una variedad de cuarzo, también puede emplearse en instrumentos científicos y tecnología, aunque en menor medida.</p>
+<div>
+    <hr style="border:2px solid blueviolet;">
+</div>
+<h1>significado y creencias</h1>
+<h3>Protección</h3>
+<p>Se cree que la amatista protege contra energías negativas y malas influencias externas.</p>
+
+<h3>Equilibrio emocional</h3>
+<p>Tradicionalmente se asocia con la calma, la serenidad y la reducción del estrés.</p>
+
+<h3>Sabiduría espiritual</h3>
+<p>Considerada una piedra que favorece la meditación, la conexión interior y la claridad mental.</p>
+
+<h3>Amor y amistad</h3>
+<p>En algunas culturas simboliza la fidelidad y lazos duraderos en las relaciones.</p>
+
+<h3>Nombre y origen</h3>
+<p>El nombre proviene del griego "amethystos", que significa "no ebrio", pues se pensaba que protegía contra la embriaguez.</p>
+
+<div>
+    <hr style="border:2px solid blueviolet;">
+</div>
+<h1>historia</h1>
+<h3>Antigüedad</h3>
+<p>Los griegos y romanos usaban la amatista en copas y amuletos, creyendo que prevenía la embriaguez.</p>
+
+<h3>Edad Media</h3>
+<p>Fue considerada una piedra sagrada en la Iglesia cristiana, usada en anillos de obispos y ornamentos religiosos.</p>
+
+<h3>Cultura egipcia</h3>
+<p>Los egipcios la empleaban en joyería y como piedra protectora en amuletos y tumbas.</p>
+
+<h3>Asia</h3>
+<p>En China y otras culturas orientales se asociaba con la claridad mental y la meditación.</p>
+
+<h3>Época moderna</h3>
+<p>Hoy en día, la amatista es una de las piedras semipreciosas más populares y accesibles en joyería y decoración.</p>
+<div>
+    <hr style="border:2px solid blueviolet;">
+</div>
+    </main>
+<footer style="background-color: rgb(202, 172, 250); color: white; text-align: center; padding: 15px; margin-top: 30px; border-radius: 8px;">
+  <p>&copy; 2025 El mundo de la amatista</p>
+  <p>Creado con 💜 por matiti feliz</p>
+
+</footer>
+
+</body>
+</html>
